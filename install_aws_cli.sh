@@ -3,7 +3,7 @@
 
 echo "info : Installing cloud command line utilization for AWS"
 
-#installation of Aws Cli tools
+#installation of Aws Cli tools.
 command -v aws > /dev/null
 RETURN_CODE=($?)
 
