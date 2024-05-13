@@ -1,12 +1,11 @@
 #!/bin/bash 
-#author : Sheikh Musaib
+#author : Sheikh Musaib.
 
 echo "info : Installing cloud command line utilization for AWS"
 
 #installation of Aws Cli tools
 command -v aws > /dev/null
-
-RETURN_CODE="($?)"
+RETURN_CODE=($?)
 
 if [[ "$RETURN_CODE" -ne 0 ]]; then 
 echo "INFO : installing AWS Cli..."
