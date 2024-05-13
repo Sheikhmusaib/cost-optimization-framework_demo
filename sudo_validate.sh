@@ -1,7 +1,7 @@
 #!/bin/bash
 
-#Author: Shehzad Shaikh
-# Initial Released Date: 4th May 2024
+#Author: Sheikh Musaib
+# Initial Released Date: 13th May 2024
 # Version: 0.0.1
 # Description: Cost Optimization Framework
 
